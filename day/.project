@@ -4,20 +4,7 @@
 	<comment></comment>
 	<projects>
 	</projects>44
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			444
-			</arguments>
-			11
-			65165116
-	454645645645645
-		</buildCommand>
-		2312312354
-	</buildSpec>
-	<natures>
-		13
+
 		<n45
 		     ature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
